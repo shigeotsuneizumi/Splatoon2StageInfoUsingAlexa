@@ -1,11 +1,14 @@
 # スプラトゥーン２のステージ情報取得スクリプト
 
 ## 概要
-えむおんさんが提供されているAPIを利用したSplatoon2のステージ情報を調べるAlexaのカスタムスキル
+Splatoon2のステージ情報を調べるAlexaのカスタムスキル
 
+基本的にAWS Lambda関数として動作させる前提
+
+えむおんさんが提供されているAPIを利用
 [Spla2 API – スプラトゥーン2のステージ情報API](https://spla2.yuu26.com/)
 
-はてなブログのメモ
+作成時のメモ（はてなブログ）
 
 [Splatoon2のステージ情報を調べるAlexaのカスタムスキルを作った](https://manatee-it.hatenadiary.jp/entry/2018/05/10/155813)
 
