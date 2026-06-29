@@ -6,6 +6,7 @@ Splatoon2のステージ情報を調べるAlexaのカスタムスキル
 基本的にAWS Lambda関数として動作させる前提
 
 えむおんさんが提供されているAPIを利用
+
 [Spla2 API – スプラトゥーン2のステージ情報API](https://spla2.yuu26.com/)
 
 作成時のメモ（はてなブログ）
